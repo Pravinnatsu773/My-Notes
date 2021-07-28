@@ -168,7 +168,8 @@ Chi-Square test
 
    5. Crosstabulation presents the distributions of two categorical variables simultaneously, with the intersections of the categories of the variables appearing in the cells of the table. that is values of one variable represents the row and other's value represents the column.
 
-   Example: ![alt crosstabulation of male female education qualification](https://www.researchgate.net/profile/Robert-Nathan-2/publication/50367376/figure/tbl3/AS:669323903369245@1536590662441/Cross-tabulation-between-Gender-and-Highest-Education-Achieved.png)
+   Example: 
+   ![alt crosstabulation of male female education qualification](https://www.researchgate.net/profile/Robert-Nathan-2/publication/50367376/figure/tbl3/AS:669323903369245@1536590662441/Cross-tabulation-between-Gender-and-Highest-Education-Achieved.png)
 
    7. formula: ![alt formula](https://cdn1.byjus.com/wp-content/uploads/2020/10/Chi-Square-Test.png)
 
